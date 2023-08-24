@@ -3,7 +3,8 @@
 
  ![Snake animation](https://github.com/ni-nitesh4now/ni-nitesh4now/blob/output/github-contribution-grid-snake.svg) 
 
-
+<p>🔭I'm a passionate Web Developer specializing in frontend development with technologies like <strong>React and Tailwind</strong>. Currently, I'm learning and improving in <strong>Big Data Analytics</strong>, as well as <strong>Machine Learning and Natural Language Processing</strong>.🌱
+</p>
 
 <h2 align="center">Skills</h2>
   <img src="assets/icons/html.svg" width="40" title="HTML"/>
@@ -21,6 +22,5 @@
   <img src="assets/icons/firebase.svg" width=40" title="Firebase"/>
   <img src="assets/icons/mysql.svg" width="38" title="MySQL"/>
   <img src="assets/icons/blender.svg" width="38" title="Blender"/>
-<p>🔭I'm a passionate Web Developer specializing in frontend development with technologies like <strong>React and Tailwind</strong>. Currently, I'm learning and improving in <strong>Big Data Analytics</strong>, as well as <strong>Machine Learning and Natural Language Processing</strong>.🌱
-  	</p>
+
 </div>
