@@ -21,8 +21,6 @@
   <img src="assets/icons/firebase.svg" width=40" title="Firebase"/>
   <img src="assets/icons/mysql.svg" width="38" title="MySQL"/>
   <img src="assets/icons/blender.svg" width="38" title="Blender"/>
-
-
-<p>- 🔭 I’m currently working on Big Data Analytics</p>
-<p>- 🌱 I’m currently learning Machine Learning</p>
+<p>🔭I'm a passionate Web Developer specializing in frontend development with technologies like <strong>React and Tailwind</strong>. Currently, I'm learning and improving in <strong>Big Data Analytics</strong>, as well as <strong>Machine Learning and Natural Language Processing</strong>.🌱
+  	</p>
 </div>
