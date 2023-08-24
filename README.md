@@ -3,7 +3,7 @@
 
  ![Snake animation](https://github.com/ni-nitesh4now/ni-nitesh4now/blob/output/github-contribution-grid-snake.svg) 
 
-</div>
+
 
 <h2 align="center">Skills</h2>
   <img src="assets/icons/html.svg" width="40" title="HTML"/>
@@ -21,6 +21,6 @@
   <img src="assets/icons/firebase.svg" width=40" title="Firebase"/>
   <img src="assets/icons/mysql.svg" width="38" title="MySQL"/>
   <img src="assets/icons/blender.svg" width="38" title="Blender"/>
-
+</div>
 - 🔭 I’m currently working on Big Data Analytics
 - 🌱 I’m currently learning Machine Learning
