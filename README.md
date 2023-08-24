@@ -5,8 +5,10 @@
 </p>
 </br>
 </br>
+</div>
 ![Snake animation](https://github.com/ni-nitesh4now/ni-nitesh4now/blob/output/github-contribution-grid-snake.svg) 
 
+<div align="center">
 
 
 <h2 align="center">Skills</h2>
