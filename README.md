@@ -21,6 +21,8 @@
   <img src="assets/icons/firebase.svg" width=40" title="Firebase"/>
   <img src="assets/icons/mysql.svg" width="38" title="MySQL"/>
   <img src="assets/icons/blender.svg" width="38" title="Blender"/>
+
+
+<p>- 🔭 I’m currently working on Big Data Analytics</p>
+<p>- 🌱 I’m currently learning Machine Learning</p>
 </div>
-- 🔭 I’m currently working on Big Data Analytics
-- 🌱 I’m currently learning Machine Learning
