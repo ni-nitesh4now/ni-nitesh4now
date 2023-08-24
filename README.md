@@ -5,7 +5,7 @@
 </p>
 </br>
 </br>
- ![Snake animation](https://github.com/ni-nitesh4now/ni-nitesh4now/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/ni-nitesh4now/ni-nitesh4now/blob/output/github-contribution-grid-snake.svg) 
 
 
 
