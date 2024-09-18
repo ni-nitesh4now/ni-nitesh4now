@@ -11,7 +11,7 @@
 
 <div align="center">
 
-
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ni-nitesh4now&show_icons=true)](https://github.com/ni-nitesh4now/github-readme-stats)
 <h2 align="center">Skills</h2>
   <img src="assets/icons/html.svg" width="40" title="HTML"/>
   <img src="assets/icons/css.svg" width="40" title="CSS"/>
