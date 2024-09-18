@@ -1,7 +1,7 @@
 
 <div align="center">
  <h1>Hello Visitor, 👋 I am Nitesh Mishra</h1>
-<p>🔭I'm a passionate Web Developer specializing in frontend development with technologies like <strong>React and Tailwind</strong>. Currently, I'm learning and improving in <strong>Big Data Analytics</strong>, as well as <strong>Machine Learning and Natural Language Processing</strong>.🌱
+<p>🔭I'm a passionate Web Developer specializing in frontend development with technologies like <strong>React and Tailwind</strong>. 
 </p>
 </br>
 </br>
