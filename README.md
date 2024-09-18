@@ -10,7 +10,7 @@
 ![Snake animation](https://github.com/ni-nitesh4now/ni-nitesh4now/blob/output/github-contribution-grid-snake.svg) 
 
 <div align="center">
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ni-nitesh4now)](https://github.com/ni-nitesh4now/github-readme-stats)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ni-nitesh4now&show_icons=true)](https://github.com/ni-nitesh4now/github-readme-stats)
 <h2 align="center">Skills</h2>
   <img src="assets/icons/html.svg" width="40" title="HTML"/>
