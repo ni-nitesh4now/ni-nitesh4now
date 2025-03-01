@@ -23,6 +23,6 @@
   <img src="assets/icons/express.svg" width="43" title="Express"/>
   <img src="assets/icons/firebase.svg" width=40" title="Firebase"/>
   <img src="assets/icons/mysql.svg" width="38" title="MySQL"/>
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ni-nitesh4now&show_icons=true)(https://github.com/ni-nitesh4now/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ni-nitesh4now&show_icons=true)
 
 </div>
