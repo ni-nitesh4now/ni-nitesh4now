@@ -9,8 +9,8 @@
 
 
 <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ni-nitesh4now)](https://github.com/ni-nitesh4now/github-readme-stats)
-<h2 align="center">Skills</h2>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ni-nitesh4now)](https://github.com/ni-nitesh4now/github-readme-stats)
+<h2 align="center">Skills</h2> -->
   <img src="assets/icons/html.svg" width="40" title="HTML"/>
   <img src="assets/icons/css.svg" width="40" title="CSS"/>
   <img src="assets/icons/javascript.svg" width="37" title="JavaScript"/>
@@ -23,6 +23,6 @@
   <img src="assets/icons/express.svg" width="43" title="Express"/>
   <img src="assets/icons/firebase.svg" width=40" title="Firebase"/>
   <img src="assets/icons/mysql.svg" width="38" title="MySQL"/>
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ni-nitesh4now&show_icons=true)
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ni-nitesh4now&show_icons=true) -->
 
 </div>
